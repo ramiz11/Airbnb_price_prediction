@@ -4,3 +4,4 @@ df.pickle filter=lfs diff=lfs merge=lfs -text
 updated_df.pickle filter=lfs diff=lfs merge=lfs -text
 airbnb_updated.pickle filter=lfs diff=lfs merge=lfs -text
 updated_df.pkl filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
